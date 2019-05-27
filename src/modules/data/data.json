@@ -1,0 +1,327 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "title": "Breaking Bad",
+      "type": "show",
+      "categories": ["crime", "drama", "thriller"],
+      "synopsis": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+      "releaseDate": "2008-01-20T00:00:00.000Z",
+      "score": 9.5,
+      "episodes": [10, 11, 12, 13, 14, 15, 16],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Game of Thrones",
+      "type": "show",
+      "categories": ["action", "adventure", "drama", "fantasy", "romance"],
+      "synopsis": "Nine noble families fight for control over the mythical lands of Westeros, while an ancient enemy returns after being dormant for thousands of years.",
+      "releaseDate": "2011-04-17T00:00:00.000Z",
+      "score": 9.5,
+      "episodes": [20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA5NzA5NjMwNl5BMl5BanBnXkFtZTgwNjg2OTk2NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Six Feet Under",
+      "type": "show",
+      "categories": ["comedy", "drama"],
+      "synopsis": "A drama series that takes a darkly comical look at members of a dysfunctional California family that runs an independent funeral home.",
+      "releaseDate": "2001-06-03T00:00:00.000Z",
+      "score": 8.7,
+      "episodes": [30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 310, 311],
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTg4OGM3NTgtNjRmMi00OWZiLTgxNmMtZDY1Y2M4ZjhiZDIzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Pilot",
+      "type": "episode",
+      "categories": ["crime", "drama", "thriller"],
+      "synopsis": "Diagnosed with terminal lung cancer, chemistry teacher Walter White teams up with his former student, Jesse Pinkman, to cook and sell crystal meth.",
+      "releaseDate": "2008-01-20T00:00:00.000Z",
+      "score": 8.9,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTZlMGY1OWItZWJiMy00MTZlLThhMGItNDQ2ODM3YzNkOWU5XkEyXkFqcGdeQXVyNzgyOTQ4MDc@._V1_SX300.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Cat's in the Bag...",
+      "type": "episode",
+      "categories": ["crime", "drama", "thriller"],
+      "synopsis": "After their first drug deal goes terribly wrong, Walt and Jesse are forced to deal with a corpse and a prisoner. Meanwhile, Skyler grows suspicious of Walt's activities.",
+      "releaseDate": "2008-01-27T00:00:00.000Z",
+      "score": 8.7,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2I2YTkzNjEtZTViMy00OWJiLWIyMTAtYzc1MmRlZTNlZDkzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjk5MDYxNDM@._V1_SX300.jpg"
+    },
+    {
+      "id": 12,
+      "title": "...And the Bag's in the River",
+      "type": "episode",
+      "categories": ["crime", "drama", "thriller"],
+      "synopsis": "As Jesse struggles to sell the meth he and Walter made, the chemistry teacher faces his own dilemmas, such as hiding his cancer from his wife and deciding what to do with Jesse's prisoner Krazy-8.",
+      "releaseDate": "2008-02-10T00:00:00.000Z",
+      "score": 8.7,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDI5ZTFlMDMtZmNhOS00OWRjLWJhMTUtOGI5NWY0ZjQ2OTAzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_SX300.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Cancer Man",
+      "type": "episode",
+      "categories": ["crime", "drama", "thriller"],
+      "synopsis": "Walt tells the rest of his family about his cancer. Jesse tries to make amends with his own parents.",
+      "releaseDate": "2008-02-17T00:00:00.000Z",
+      "score": 8.3,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BODg5MTYzNzM4MV5BMl5BanBnXkFtZTgwNDAwOTc5MjE@._V1_SX300.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Gray Matter",
+      "type": "episode",
+      "categories": ["crime", "drama", "thriller"],
+      "synopsis": "Walt rejects everyone who tries to help him with the cancer. Jesse tries his best to create Walt's meth, with the help of an old friend.",
+      "releaseDate": "2008-02-24T00:00:00.000Z",
+      "score": 8.3,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTkxMjg1MTU5MF5BMl5BanBnXkFtZTgwODAwOTc5MjE@._V1_SX300.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Crazy Handful of Nothin'",
+      "type": "episode",
+      "categories": ["crime", "drama", "thriller"],
+      "synopsis": "With the side effects and cost of his treatment mounting, Walt demands that Jesse finds a wholesaler to buy their drugs, which lands him in trouble.",
+      "releaseDate": "2008-03-02T00:00:00.000Z",
+      "score": 9.2,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWQxNGJmOGEtNjNmMS00OWExLTg0NGEtMDYyYmY2ZjFhMzFiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_SX300.jpg"
+    },
+    {
+      "id": 16,
+      "title": "A No-Rough-Stuff-Type Deal",
+      "type": "episode",
+      "categories": ["crime", "drama", "thriller"],
+      "synopsis": "Walt and Jesse try to up their game by making more of the crystal every week for Tuco. Unfortunately, some of the ingredients they need are not easy to find. Meanwhile, Skyler realizes that her sister is a shoplifter.",
+      "releaseDate": "2008-03-09T00:00:00.000Z",
+      "score": 8.8,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWQzNzhkZjktZWZmNC00MGMxLThkMDMtZTI0MjlkOTk0YjBlXkEyXkFqcGdeQXVyNzgyOTQ4MDc@._V1_SX300.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Winter Is Coming",
+      "type": "episode",
+      "categories": ["action", "adventure", "drama", "fantasy", "romance"],
+      "synopsis": "Eddard Stark is torn between his family and an old friend when asked to serve at the side of King Robert Baratheon; Viserys plans to wed his sister to a nomadic warlord in exchange for an army.",
+      "releaseDate": "2011-04-17T00:00:00.000Z",
+      "score": 9.1,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ2NDIzNjEzOV5BMl5BanBnXkFtZTcwOTU2ODg5NA@@._V1_SX300.jpg"
+    },
+    {
+      "id": 21,
+      "title": "The Kingsroad",
+      "type": "episode",
+      "categories": ["action", "adventure", "drama", "fantasy", "romance"],
+      "synopsis": "While Bran recovers from his fall, Ned takes only his daughters to King's Landing. Jon Snow goes with his uncle Benjen to the Wall. Tyrion joins them.",
+      "releaseDate": "2011-04-24T00:00:00.000Z",
+      "score": 8.8,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQyMjMzMDIxOV5BMl5BanBnXkFtZTcwODU2ODg5NA@@._V1_SX300.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Lord Snow",
+      "type": "episode",
+      "categories": ["action", "adventure", "drama", "fantasy", "romance"],
+      "synopsis": "Ned and his daughters arrive at King's Landing and finds himself mired in political intrigue; Jon begins his training with the Night's Watch.",
+      "releaseDate": "2011-05-01T00:00:00.000Z",
+      "score": 8.7,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDc3ZGQxMWItZDg2Ni00MjAxLTljMDYtOTU5MmVkZTUxZjE3XkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SX300.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Cripples, Bastards, and Broken Things",
+      "type": "episode",
+      "categories": ["action", "adventure", "drama", "fantasy", "romance"],
+      "synopsis": "Eddard investigates Jon Arryn's murder. Jon befriends Samwell Tarly, a coward who has come to join the Night's Watch.",
+      "releaseDate": "2011-05-08T00:00:00.000Z",
+      "score": 8.8,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTMwNDQ0MTIyMl5BMl5BanBnXkFtZTcwODkxMzkxNA@@._V1_SX300.jpg"
+    },
+    {
+      "id": 24,
+      "title": "The Wolf and the Lion",
+      "type": "episode",
+      "categories": ["action", "adventure", "drama", "fantasy", "romance"],
+      "synopsis": "Catelyn has captured Tyrion and plans to bring him to her sister, Lysa Arryn, at the Vale, to be tried for his, supposed, crimes against Bran. Robert plans to have Daenerys killed, but Eddard refuses to be a part of it and quits.",
+      "releaseDate": "2011-05-15T00:00:00.000Z",
+      "score": 9.1,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDVkY2VhNzYtZGJkOC00NWRjLWJiZTgtMjI4YmI3ZTU0Y2E4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_SX300.jpg"
+    },
+    {
+      "id": 25,
+      "title": "A Golden Crown",
+      "type": "episode",
+      "categories": ["action", "adventure", "drama", "fantasy", "romance"],
+      "synopsis": "While recovering from his battle with Jaime, Eddard is forced to run the kingdom while Robert goes hunting. Tyrion demands a trial by combat for his freedom. Viserys is losing his patience with Drogo.",
+      "releaseDate": "2011-05-22T00:00:00.000Z",
+      "score": 9.2,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGMxZmVjOWMtZDIzOC00NGVhLWEyOTktODEwMmViNGI0NGM0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_SX300.jpg"
+    },
+    {
+      "id": 26,
+      "title": "You Win or You Die",
+      "type": "episode",
+      "categories": ["action", "adventure", "drama", "fantasy", "romance"],
+      "synopsis": "Robert has been injured while hunting and is dying. Jon and the others finally take their vows to the Night's Watch. A man, sent by Robert, is captured for trying to poison Daenerys. Furious, Drogo vows to attack the Seven Kingdoms.",
+      "releaseDate": "2011-05-29T00:00:00.000Z",
+      "score": 9.3,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjM1YTVmYWEtYWI0Zi00Y2I4LTg0YWItNzE5ZDE1MjM2OWMzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_SX300.jpg"
+    },
+    {
+      "id": 27,
+      "title": "The Pointy End",
+      "type": "episode",
+      "categories": ["action", "adventure", "drama", "fantasy", "romance"],
+      "synopsis": "The Lannisters press their advantage over the Starks; Robb rallies his father's northern allies and heads south to war; The White Walkers attack the Wall; Tyrion returns to his father with some new friends.",
+      "releaseDate": "2011-06-05T00:00:00.000Z",
+      "score": 9.1,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM4NTA5NzEwMV5BMl5BanBnXkFtZTcwMDI4ODI2NQ@@._V1_SX300.jpg"
+    },
+    {
+      "id": 28,
+      "title": "Baelor",
+      "type": "episode",
+      "categories": ["action", "adventure", "drama", "fantasy", "romance"],
+      "synopsis": "Robb goes to war against the Lannisters. Jon finds himself struggling on deciding if his place is with Robb or the Night's Watch. Drogo has fallen ill from a fresh battle wound. Daenerys is desperate to save him.",
+      "releaseDate": "2011-06-12T00:00:00.000Z",
+      "score": 9.6,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjQ4ZjRmZmQtZWU2Yi00ZGNkLWI0MzUtYmMwOTY2YTU1MjU4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_SX300.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Fire and Blood",
+      "type": "episode",
+      "categories": ["action", "adventure", "drama", "fantasy", "romance"],
+      "synopsis": "Robb vows to get revenge on the Lannisters. Jon must officially decide if his place is with Robb or the Night's Watch. Daenerys says her final goodbye to Drogo.",
+      "releaseDate": "2011-06-19T00:00:00.000Z",
+      "score": 9.5,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BODk1NjIzNjczMl5BMl5BanBnXkFtZTcwODU1MTc2NQ@@._V1_SX300.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Pilot",
+      "type": "episode",
+      "categories": ["comedy", "drama"],
+      "synopsis": "When the funeral director is killed in an accident, the family comes together to mourn and decide the fate of the funeral home.",
+      "releaseDate": "2001-06-03T00:00:00.000Z",
+      "score": 8.8,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjZmYzEwNjMtNmVjNS00MjI5LTgwN2YtNWNjOTViZDUyNmUxXkEyXkFqcGdeQXVyNTQ0NjQzNTE@._V1_SX300.jpg"
+    },
+    {
+      "id": 31,
+      "title": "The Will",
+      "type": "episode",
+      "categories": ["comedy", "drama"],
+      "synopsis": "The family attends the reading of Nathaniel's will. A widow is unable to pay the funeral bill after her late husband leaves her with a mountain of debt.",
+      "releaseDate": "2001-06-10T00:00:00.000Z",
+      "score": 8.3,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI0NjAyNTY1Nl5BMl5BanBnXkFtZTYwNzg2MTg5._V1_SX300.jpg"
+    },
+    {
+      "id": 32,
+      "title": "The Foot",
+      "type": "episode",
+      "categories": ["comedy", "drama"],
+      "synopsis": "The family considers selling the business. Their latest client had an unfortunate accident with an industrial dough-mixer.",
+      "releaseDate": "2001-06-17T00:00:00.000Z",
+      "score": 8.4,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjEwMDQ0NzE2M15BMl5BanBnXkFtZTgwNTcxNzM0MjE@._V1_SX300.jpg"
+    },
+    {
+      "id": 33,
+      "title": "Familia",
+      "type": "episode",
+      "categories": ["comedy", "drama"],
+      "synopsis": "When a gang member is shot, his family requests that he is buried, but the gang's leader wants it done a different way.",
+      "releaseDate": "2001-06-24T00:00:00.000Z",
+      "score": 8.5,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTg4OGM3NTgtNjRmMi00OWZiLTgxNmMtZDY1Y2M4ZjhiZDIzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": 34,
+      "title": "An Open Book",
+      "type": "episode",
+      "categories": ["comedy", "drama"],
+      "synopsis": "An adult film star electrocutes to death in her bathtub, which leads to a memorial service that is anything but ordinary.",
+      "releaseDate": "2001-07-01T00:00:00.000Z",
+      "score": 8.3,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQzODcyMjkwNV5BMl5BanBnXkFtZTgwMDcyNzM0MjE@._V1_SX300.jpg"
+    },
+    {
+      "id": 35,
+      "title": "The Room",
+      "type": "episode",
+      "categories": ["comedy", "drama"],
+      "synopsis": "After a woman passes away in her sleep, her husband proves to be a very demanding client.",
+      "releaseDate": "2001-07-08T00:00:00.000Z",
+      "score": 8.7,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0NjAyNTY1Nl5BMl5BanBnXkFtZTYwNzg2MTg5._V1_SX300.jpg"
+    },
+    {
+      "id": 36,
+      "title": "Brotherhood",
+      "type": "episode",
+      "categories": ["comedy", "drama"],
+      "synopsis": "The family must persuade the angry brother of a war veteran who died of lung disease that his brother should receive a military-honoring burial.",
+      "releaseDate": "2001-07-15T00:00:00.000Z",
+      "score": 8.1,
+      "imageUrl": "https://ia.media-imdb.com/images/M/MV5BMTI0NjAyNTY1Nl5BMl5BanBnXkFtZTYwNzg2MTg5._V1_SX300.jpg"
+    },
+    {
+      "id": 37,
+      "title": "Life's Too Short",
+      "type": "episode",
+      "categories": ["comedy", "drama"],
+      "synopsis": "A boy accidentally shoots and kills himself while playing with a gun, and his mother is nearly comatose with grief.",
+      "releaseDate": "2001-07-29T00:00:00.000Z",
+      "score": 8.8,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTg4OGM3NTgtNjRmMi00OWZiLTgxNmMtZDY1Y2M4ZjhiZDIzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": 38,
+      "title": "The New Person",
+      "type": "episode",
+      "categories": ["comedy", "drama"],
+      "synopsis": "An egocentric husband is killed with a frying pan after his wife finally has enough of his mouth.",
+      "releaseDate": "2001-08-05T00:00:00.000Z",
+      "score": 8.6,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTg4OGM3NTgtNjRmMi00OWZiLTgxNmMtZDY1Y2M4ZjhiZDIzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": 39,
+      "title": "The Trip",
+      "type": "episode",
+      "categories": ["comedy", "drama"],
+      "synopsis": "Nate and Dave travel to Vegas in order to attend a convention for funeral directors. A newborn child dies from a case of SIDS.",
+      "releaseDate": "2001-08-12T00:00:00.000Z",
+      "score": 8.5,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTg4OGM3NTgtNjRmMi00OWZiLTgxNmMtZDY1Y2M4ZjhiZDIzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": 310,
+      "title": "A Private Life",
+      "type": "episode",
+      "categories": ["comedy", "drama"],
+      "synopsis": "A gay couple is attacked and one of them is killed, causing controversy among the family and a confession to be made.",
+      "releaseDate": "2001-08-19T00:00:00.000Z",
+      "score": 9.0,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTg4OGM3NTgtNjRmMi00OWZiLTgxNmMtZDY1Y2M4ZjhiZDIzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": 311,
+      "title": "Knock, Knock",
+      "type": "episode",
+      "categories": ["comedy", "drama"],
+      "synopsis": "A simple game of golf results in the death of a woman.",
+      "releaseDate": "2001-08-19T00:00:00.000Z",
+      "score": 8.8,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTg4OGM3NTgtNjRmMi00OWZiLTgxNmMtZDY1Y2M4ZjhiZDIzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    }
+  ]
+}
